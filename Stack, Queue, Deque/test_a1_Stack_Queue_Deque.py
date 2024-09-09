@@ -4,7 +4,7 @@
 #   To use this, run: python test_a1_partc.py
 
 import unittest
-from a1_partc import Stack, Queue, Deque
+from a1_Stack_Queue_Deque import Stack, Queue, Deque
 
 class A1CTestCase(unittest.TestCase):
     """These are the test cases for functions and classes of a1"""

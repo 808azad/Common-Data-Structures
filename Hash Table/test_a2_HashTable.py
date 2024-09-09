@@ -4,7 +4,7 @@
 #   To use this, run: python test_a2_parta.py
 
 import unittest
-from a2_parta import HashTable
+from a2_HashTable import HashTable
 
 class A2ATestCase(unittest.TestCase):
     """These are the test cases for functions and classes of a2"""
