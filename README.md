@@ -6,10 +6,10 @@ This project focuses on implementing essential data structures, including a sort
 This project is a work in progress. In the future, additional data structures will be implemented and added to this repository. Contributions and feedback are welcome as the project continues to expand with more features and improvements.
 
 ## Authors
-    - Azad Zeynalov
-    - Serge Safronov
-    - Joseph Eiles
-    - Catherine Leung
+- Azad Zeynalov
+- Serge Safronov  
+- Joseph Eiles
+- Catherine Leung
 
 
 
