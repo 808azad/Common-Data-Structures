@@ -2,7 +2,7 @@
 
 ### Class: Stack
 
-The Stack class implements a FILO data structure.  This class must be implemented using a python list (not a linked list) based solution.
+The Stack class implements a FILO data structure.  This class is implemented using a python list (not a linked list) based solution.
 
 
 ```python
@@ -80,7 +80,7 @@ Runtime requirement for this function is O(1)
 
 ### Class: Queue
 
-The Queue class implements a FIFO data structure.  This class must be implemented using a python list (not a linked list) based solution.
+The Queue class implements a FIFO data structure.  This class is implemented using a python list (not a linked list) based solution.
 
 
 ```python
@@ -155,7 +155,7 @@ This function returns the number of values in the Queue.  Runtime requirement fo
 ### Class: Deque
 
 
-A Deque is a double ended queue.  This class allows you to add/remove items from front or the back of the data structure.  This class must be implemented using a python list (not a linked list) based solution.  
+A Deque is a double ended queue.  This class allows you to add/remove items from front or the back of the data structure.  This class is implemented using a python list (not a linked list) based solution.  
 
 ```python
 
