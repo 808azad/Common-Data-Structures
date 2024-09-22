@@ -34,6 +34,7 @@ function returns reference to previous node in SortedList
 
 ---
 
+
 ## Class: SortedList
 
 A SortedList is a sorted doubly linked list. 
