@@ -1,6 +1,6 @@
 # Data Structure: Sorted Linked List
 
-## Class: Node
+### Class: Node
 
 The Node class is declared within SortedList. It stores:
 * a piece of data
@@ -35,7 +35,7 @@ function returns reference to previous node in SortedList
 ---
 
 
-## Class: SortedList
+### Class: SortedList
 
 A SortedList is a sorted doubly linked list. 
 
