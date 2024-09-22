@@ -79,7 +79,7 @@ This function returns the number of values stored in the list
 ```python
 def insert(self,data)
 ```
-this function inserts data into the list such that the list stays sorted. You may assume that the data being added can be compared using comparison operators.  Function returns reference to newly added node.
+This function inserts data into the list such that the list stays sorted. You may assume that the data being added can be compared using comparison operators.  Function returns reference to newly added node.
 
 ---
 
@@ -97,7 +97,7 @@ This function removes the node referred to by the node argument.   This function
 ```python
 def search(self, data)
 ```
-This function returns a reference to the node containing data if it exists within the list, None if no node contains data
+This function returns a reference to the node containing data if it exists within the list, None if no node contains data.
 
 
 
