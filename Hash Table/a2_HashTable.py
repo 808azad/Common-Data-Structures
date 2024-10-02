@@ -1,10 +1,6 @@
 #    Main Author(s): Azad Zeynalov
 #    Main Reviewer(s): Joseph Eiles, Serge Safronov
 
-#from a1_partb import SortedList
-
-# SortedList class was added directly to this file due to the issue appeared in Main Repo tester
-
 class SortedList:
 
 	# Node class for SortedList
@@ -118,10 +114,6 @@ class SortedList:
 
 
 class HashTable:
-
-	# You cannot change the function prototypes below.  Other than that
-	# how you implement the class is your choice as long as it is a hash table
-
 	# Initializes hash table	
 	def __init__(self, cap=32):
 		self.cap = cap
